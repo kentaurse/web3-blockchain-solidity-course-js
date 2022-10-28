@@ -20,7 +20,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/levblanc/solidity-basics"><img src="https://img.shields.io/badge/mission%2000-blockchain,%20remix%20and%20solidity%20basics%20(Lessons%200,%201,%202,%203,%204)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" /></a>
+    <a href="https://github.com/levblanc/solidity-basics"><img src="https://img.shields.io/badge/challenge%2000-blockchain,%20remix%20and%20solidity%20basics%20(Lessons%200%20~%204)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" /></a>
   </p>
 
 <a href="https://github.com/levblanc/solidity-basics">View Code</a> ·
