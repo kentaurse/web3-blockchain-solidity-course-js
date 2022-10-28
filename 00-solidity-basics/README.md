@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/levblanc/web3-blockchain-solidity-course-js">
-    <img src="../images/blockchain.png" alt="Logo" width="100" height="100">
+    <img src="../images/blockchain.svg" alt="Logo" width="100" height="100">
   </a>
 
   <h2 align="center">Web3, Full Stack Solidity, Smart Contract & Blockchain development with JavaScript</h2>
@@ -20,7 +20,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/levblanc/solidity-basics"><img src="https://img.shields.io/badge/challenge%2000-blockchain,%20remix%20and%20solidity%20basics%20(Lessons%200%20~%204)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" /></a>
+    <a href="https://github.com/levblanc/solidity-basics"><img src="https://img.shields.io/badge/challenge%2000-blockchain,%20remix%20and%20solidity%20basics%20(Lessons%200%20~%204)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-00' /></a>
   </p>
 
 <a href="https://github.com/levblanc/solidity-basics">View Code</a> ·
