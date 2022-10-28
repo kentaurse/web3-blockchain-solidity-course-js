@@ -47,25 +47,28 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 ## Skills Acquired
 
-<img src="./images/solidity.svg" alt="Solidity" width="80" height="80">
-<img src="./images/remix.svg" alt="Remix" width="160" height="80">
-<img src="./images/javascript.svg" alt="Javascript" width="80" height="80">
-<img src="./images/nextjs.svg" alt="NextJS" width="160" height="80">
-<img src="./images/react.svg" alt="React" width="80" height="80">
-<img src="./images/nodejs.svg" alt="NodeJS" width="160" height="80">
-<img src="./images/hardhat.svg" alt="Hardhat" width="80" height="80">
-<img src="./images/ethersjs.png" alt="EthersJS" width="80" height="80">
-<img src="./images/ganache.svg" alt="Ganache" width="80" height="80">
-<img src="./images/mocha.svg" alt="Mocha" width="80" height="80">
-<img src="./images/aave.svg" alt="AAVE" width="80" height="80">
-<img src="./images/chainlink.svg" alt="Chainlink" width="80" height="80">
-<img src="./images/alchemy.svg" alt="Alchemy" width="160" height="80">
-<img src="./images/ipfs.png" alt="IPFS" width="80" height="80">
-<img src="./images/moralis.svg" alt="Moralis" width="160" height="80">
-<img src="./images/thegraph.svg" alt="The Graph" width="80" height="80">
-<img src="./images/apollo.png" alt="Apollo GraphQL" width="80" height="80">
-<img src="./images/wagmi.svg" alt="Wagmi" width="160" height="80">
-<img src="./images/rainbow.svg" alt="RainbowKit" width="80" height="80">
+<p>
+  <img src="./images/solidity.svg" alt="Solidity" width="80" height="80">
+  <span style='width: 10px'></span>
+  <img src="./images/remix.svg" alt="Remix" width="160" height="80">
+  <img src="./images/javascript.svg" alt="Javascript" width="80" height="80">
+  <img src="./images/nextjs.svg" alt="NextJS" width="160" height="80">
+  <img src="./images/react.svg" alt="React" width="80" height="80">
+  <img src="./images/nodejs.svg" alt="NodeJS" width="160" height="80">
+  <img src="./images/hardhat.svg" alt="Hardhat" width="80" height="80">
+  <img src="./images/ethersjs.png" alt="EthersJS" width="80" height="80">
+  <img src="./images/ganache.svg" alt="Ganache" width="80" height="80">
+  <img src="./images/mocha.svg" alt="Mocha" width="80" height="80">
+  <img src="./images/aave.svg" alt="AAVE" width="80" height="80">
+  <img src="./images/chainlink.svg" alt="Chainlink" width="80" height="80">
+  <img src="./images/alchemy.svg" alt="Alchemy" width="160" height="80">
+  <img src="./images/ipfs.png" alt="IPFS" width="80" height="80">
+  <img src="./images/moralis.png" alt="Moralis" width="180" height="80">
+  <img src="./images/thegraph.svg" alt="The Graph" width="80" height="80">
+  <img src="./images/apollo.png" alt="Apollo GraphQL" width="80" height="80">
+  <img src="./images/wagmi.svg" alt="Wagmi" width="160" height="80">
+  <img src="./images/rainbow.svg" alt="RainbowKit" width="80" height="80">
+</p>
 
 <!-- ROADMAP -->
 
