@@ -107,7 +107,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 - [x] Work with Alchemy as RPC provider
 - [x] Verify contract on block explorer UI
 
-## Skills
+### Skills
 
 [![Solidity]](https://soliditylang.org/)
 [![EthersJS]](https://docs.ethers.io/v5/)
@@ -119,7 +119,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 <a href="https://github.com/levblanc/solidity-hardhat"><img src="https://img.shields.io/badge/challenge%2002-Hardhat%20Simple%20Storage%20(lesson%206)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-02' /></a>
 
-## Milestones
+### Milestones
 
 - [x] Hardhat env setup
 - [x] Hardhat networks & local node
@@ -128,12 +128,33 @@ git clone https://github.com/levblanc/solidity-basics.git
 - [x] Interacting with contracts in Hardhat
 - [x] Hardhat tests & coverage reporter
 
-## Skills
+### Skills
 
 [![Solidity]](https://soliditylang.org/)
 [![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![Hardhat]](https://hardhat.org/) [![Chai]](https://www.chaijs.com/)
 [![Mocha]](https://mochajs.org/)
+
+#
+
+<a href="https://github.com/levblanc/solidity-hardhat-advanced"><img src="https://img.shields.io/badge/challenge%2003-Hardhat%20Fund%20Me%20(Lesson%207)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-02' /></a>
+
+### Milestones
+
+- [x] Testing with Chainlink mocks & helper-hardhat-config
+- [x] Contract testing with Solidity console.log & VS Code breakpoints
+- [x] Storage in Solidity
+- [x] Gas Optimizations using storage knowledge
+- [x] Staging Tests
+- [x] Running Scripts on a Local Node
+- [x] Adding scripts to your package.json
+
+### Skills
+
+[![Solidity]](https://soliditylang.org/)
+[![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Hardhat]](https://hardhat.org/) [![Chai]](https://www.chaijs.com/)
+[![Mocha]](https://mochajs.org/) [![Chainlink]](https://chain.link/)
 
 #
 
