@@ -78,6 +78,9 @@ git clone https://github.com/levblanc/solidity-basics.git
 - [x] Basic Solidity - Sending ETH from a Contract
 - [x] Basic Solidity - Constructor
 - [x] Basic Solidity - Modifiers
+- [x] Advanced Solidity - Immutable & Constant
+- [x] Advanced Solidity - Custom Errors
+- [x] Advanced Solidity - Receive & Fallback
 
 #
 
