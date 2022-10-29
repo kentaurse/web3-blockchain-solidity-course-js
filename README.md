@@ -49,12 +49,13 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 <p>
   <img src="./images/solidity.svg" alt="Solidity" width="80" height="80">
-  <span style='width: 10px'></span>
   <img src="./images/remix.svg" alt="Remix" width="160" height="80">
   <img src="./images/javascript.svg" alt="Javascript" width="80" height="80">
   <img src="./images/nextjs.svg" alt="NextJS" width="160" height="80">
   <img src="./images/react.svg" alt="React" width="80" height="80">
   <img src="./images/nodejs.svg" alt="NodeJS" width="160" height="80">
+</p>
+<p>
   <img src="./images/hardhat.svg" alt="Hardhat" width="80" height="80">
   <img src="./images/ethersjs.png" alt="EthersJS" width="80" height="80">
   <img src="./images/ganache.svg" alt="Ganache" width="80" height="80">
@@ -63,6 +64,8 @@ git clone https://github.com/levblanc/solidity-basics.git
   <img src="./images/chainlink.svg" alt="Chainlink" width="80" height="80">
   <img src="./images/alchemy.svg" alt="Alchemy" width="160" height="80">
   <img src="./images/ipfs.png" alt="IPFS" width="80" height="80">
+</p>
+<p>
   <img src="./images/moralis.png" alt="Moralis" width="180" height="80">
   <img src="./images/thegraph.svg" alt="The Graph" width="80" height="80">
   <img src="./images/apollo.png" alt="Apollo GraphQL" width="80" height="80">
@@ -76,7 +79,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 <a href="https://github.com/levblanc/solidity-basics"><img src="https://img.shields.io/badge/challenge%2000-blockchain,%20remix%20and%20solidity%20basics%20(Lessons%200%20~%204)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-00' /></a>
 
-### Achievements
+### Milestones
 
 - [x] Blockchain basics
 - [x] Solidity basics - languange syntax, gas & transactions
@@ -90,7 +93,30 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 #
 
-### [» Check the main repo of my full web3 journey](https://github.com/levblanc/web3-blockchain-solidity-course-js)
+<a href="https://github.com/levblanc/solidity-ethersjs"><img src="https://img.shields.io/badge/challenge%2001-Ethers.js%20Simple%20Storage%20(lesson%205)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-01' /></a>
+
+### Milestones
+
+- [x] Local development env setup
+- [x] Work with Ganache for local blockchain networks
+- [x] Work with Ether.js to create wallet & deploy contracts to testnet or
+      mainnet
+- [x] Interact with contract functions with Ethers.js
+- [x] `.env` file & it's content management
+- [x] Work with Alchemy as RPC provider
+- [x] Verify contract on block explorer UI
+
+## Skills
+
+[![Solidity]](https://soliditylang.org/)
+[![EthersJS]](https://docs.ethers.io/v5/)
+[![Ganache]](https://trufflesuite.com/ganache/)
+[![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![NodeJS]](https://nodejs.org/) [![Alchemy]](https://www.alchemy.com/)
+
+#
+
+### <a href="#readme-top">Back to top</a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -101,3 +127,13 @@ git clone https://github.com/levblanc/solidity-basics.git
   https://img.shields.io/badge/chainlink-375bd2?style=for-the-badge&logo=chainlink
 [remix]:
   https://img.shields.io/badge/remix%20IDE-181E29?style=for-the-badge&logo=ethereum
+[javascript]:
+  https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[nodejs]:
+  https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+[ganache]:
+  https://custom-icon-badges.demolab.com/badge/Ganache-201F1E?style=for-the-badge&logo=ganache
+[ethersjs]:
+  https://custom-icon-badges.demolab.com/badge/Ethers.js-29349A?style=for-the-badge&logo=ethers&logoColor=white
+[alchemy]:
+  https://custom-icon-badges.demolab.com/badge/Alchemy-2356D2?style=for-the-badge&logo=alchemy&logoColor=white
