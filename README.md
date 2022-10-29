@@ -59,6 +59,7 @@ git clone https://github.com/levblanc/solidity-basics.git
   <img src="./images/hardhat.svg" alt="Hardhat" width="80" height="80">
   <img src="./images/ethersjs.png" alt="EthersJS" width="80" height="80">
   <img src="./images/ganache.svg" alt="Ganache" width="80" height="80">
+  <img src="./images/chai.png" alt="Chai" width="80" height="80">
   <img src="./images/mocha.svg" alt="Mocha" width="80" height="80">
   <img src="./images/aave.svg" alt="AAVE" width="80" height="80">
   <img src="./images/chainlink.svg" alt="Chainlink" width="80" height="80">
@@ -116,6 +117,26 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 #
 
+<a href="https://github.com/levblanc/solidity-hardhat"><img src="https://img.shields.io/badge/challenge%2002-Hardhat%20Simple%20Storage%20(lesson%206)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-02' /></a>
+
+## Milestones
+
+- [x] Hardhat env setup
+- [x] Hardhat networks & local node
+- [x] Deploy contracts with Hardhat (local & testnet)
+- [x] Programmatic Verification
+- [x] Interacting with contracts in Hardhat
+- [x] Hardhat tests & coverage reporter
+
+## Skills
+
+[![Solidity]](https://soliditylang.org/)
+[![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Hardhat]](https://hardhat.org/) [![Chai]](https://www.chaijs.com/)
+[![Mocha]](https://mochajs.org/)
+
+#
+
 ### <a href="#readme-top">Back to top</a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -137,3 +158,8 @@ git clone https://github.com/levblanc/solidity-basics.git
   https://custom-icon-badges.demolab.com/badge/Ethers.js-29349A?style=for-the-badge&logo=ethers&logoColor=white
 [alchemy]:
   https://custom-icon-badges.demolab.com/badge/Alchemy-2356D2?style=for-the-badge&logo=alchemy&logoColor=white
+[hardhat]:
+  https://custom-icon-badges.demolab.com/badge/Hardhat-181A1F?style=for-the-badge&logo=hardhat
+[chai]: https://img.shields.io/badge/Chai-94161F?style=for-the-badge&logo=Chai
+[mocha]:
+  https://custom-icon-badges.demolab.com/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white
