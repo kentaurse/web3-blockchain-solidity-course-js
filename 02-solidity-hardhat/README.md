@@ -98,8 +98,6 @@ Deploy contract to Goerli testnet
 yarn hardhat run scripts/deploy.js --network goerli
 ```
 
-[](about:blank#blocked)
-
 ## Skills
 
 - [![Solidity]](https://soliditylang.org/)
