@@ -119,7 +119,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 #
 
-<a href="https://github.com/levblanc/solidity-hardhat"><img src="https://img.shields.io/badge/challenge%2002-Hardhat%20Simple%20Storage%20(lesson%206)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-02' /></a>
+<a href="https://github.com/levblanc/solidity-hardhat"><img src="https://img.shields.io/badge/challenge%2002-Hardhat%20--%20Simple%20Storage%20(lesson%206)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-02' /></a>
 
 ### Milestones
 
