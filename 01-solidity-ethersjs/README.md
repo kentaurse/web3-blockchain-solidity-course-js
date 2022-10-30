@@ -23,7 +23,10 @@
     <a href="https://github.com/levblanc/solidity-ethersjs"><img src="https://img.shields.io/badge/challenge%2001-Ethers.js%20Simple%20Storage%20(lesson%205)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-01' /></a>
   </p>
 
-<a href="https://github.com/levblanc/solidity-ethersjs">View Code</a> ·
+<a href="https://github.com/levblanc/solidity-ethersjs">View Code
+(Javascript)</a> ·
+<a href="https://github.com/levblanc/solidity-ethersjs/tree/typescript">View
+Code (Typescript)</a> ·
 <a href="https://github.com/levblanc/web3-blockchain-solidity-course-js">Check
 My Full Journey</a>
 
@@ -57,6 +60,7 @@ PRIVATE_KEY_PASSWORD=your_password
 - [![EthersJS]](https://docs.ethers.io/v5/)
 - [![Ganache]](https://trufflesuite.com/ganache/)
 - [![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+- [![TypeScript]](https://www.typescriptlang.org/)
 - [![NodeJS]](https://nodejs.org/)
 - [![Alchemy]](https://www.alchemy.com/)
 
@@ -86,6 +90,8 @@ PRIVATE_KEY_PASSWORD=your_password
   https://img.shields.io/badge/solidity-1E1E3F?style=for-the-badge&logo=solidity
 [javascript]:
   https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[typescript]:
+  https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
 [nodejs]:
   https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 [ganache]:

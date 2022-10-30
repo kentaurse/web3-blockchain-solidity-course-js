@@ -64,9 +64,9 @@ git clone https://github.com/levblanc/solidity-basics.git
   <img src="./images/aave.svg" alt="AAVE" width="80" height="80">
   <img src="./images/chainlink.svg" alt="Chainlink" width="80" height="80">
   <img src="./images/alchemy.svg" alt="Alchemy" width="160" height="80">
-  <img src="./images/ipfs.png" alt="IPFS" width="80" height="80">
 </p>
 <p>
+  <img src="./images/ipfs.png" alt="IPFS" width="80" height="80">
   <img src="./images/moralis.png" alt="Moralis" width="180" height="80">
   <img src="./images/thegraph.svg" alt="The Graph" width="80" height="80">
   <img src="./images/apollo.png" alt="Apollo GraphQL" width="80" height="80">
@@ -106,6 +106,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 - [x] `.env` file & it's content management
 - [x] Work with Alchemy as RPC provider
 - [x] Verify contract on block explorer UI
+- [x] Made everything compadible with Typescript
 
 ### Skills
 
@@ -113,6 +114,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 [![EthersJS]](https://docs.ethers.io/v5/)
 [![Ganache]](https://trufflesuite.com/ganache/)
 [![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![TypeScript]](https://www.typescriptlang.org/)
 [![NodeJS]](https://nodejs.org/) [![Alchemy]](https://www.alchemy.com/)
 
 #
