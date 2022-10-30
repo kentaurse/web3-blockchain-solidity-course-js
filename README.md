@@ -36,10 +36,12 @@ achieved.
 1. Clone your target repo
 
 ```sh
-# repo links can be found in each lesson's README.md
-git clone <repo-link-of-target-lesson>
+# Repo links can be found in each challenge's README.md
+# OR
+# Click the chalenge badges below
+git clone <repo-link-of-target-challenge>
 
-# example: cloning lesson 0
+# Example: cloning challenge 0
 git clone https://github.com/levblanc/solidity-basics.git
 ```
 
@@ -208,6 +210,30 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 #
 
+<a href="https://github.com/levblanc/web3-defi-hardhat"><img src="https://img.shields.io/badge/challenge%2006-Hardhat%20--%20DeFi%20%26%20Aave%20(lesson%2011%20~%2013)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-06' /></a>
+
+### Milestones
+
+- [x] Concepts of ERC, EIP, ERC20
+- [x] Creating an ERC20 Token with Openzeppelin
+- [x] Concepts of DeFi & Aave
+- [x] Programatic Borrowing & Lending
+- [x] WETH Wrapped ETH
+- [x] Forking Mainnet
+- [x] Depositing into Aave
+- [x] Borrowing from Aave
+- [x] Repaying with Aave
+- [x] Visualizing the Transactions (And aTokens) on Etherscan
+
+### Skills
+
+[![Solidity]](https://soliditylang.org/)
+[![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Hardhat]](https://hardhat.org/) [![Chai]](https://www.chaijs.com/)
+[![Mocha]](https://mochajs.org/) [![Aave]](https://aave.com/)
+
+#
+
 ### <a href="#readme-top">Back to top</a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -243,3 +269,5 @@ git clone https://github.com/levblanc/solidity-basics.git
 [ipfs]: https://img.shields.io/badge/IPFS-0A1B2B?style=for-the-badge&logo=ipfs
 [moralis]:
   https://custom-icon-badges.demolab.com/badge/Moralis-2559BB?style=for-the-badge&logo=moralis
+[aave]:
+  https://custom-icon-badges.demolab.com/badge/Aave-1C202F?style=for-the-badge&logo=aave
