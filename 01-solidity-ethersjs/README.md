@@ -20,7 +20,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/levblanc/solidity-ethersjs"><img src="https://img.shields.io/badge/challenge%2001-Ethers.js%20Simple%20Storage%20(lesson%205)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-01' /></a>
+    <a href="https://github.com/levblanc/solidity-ethersjs"><img src="https://img.shields.io/badge/challenge%2001-Ethers.js%20--%20Simple%20Storage%20(lesson%205)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-01' /></a>
   </p>
 
 <a href="https://github.com/levblanc/solidity-ethersjs">View Code
