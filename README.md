@@ -177,8 +177,6 @@ git clone https://github.com/levblanc/solidity-basics.git
 - [x] Hardhat Methods & "Time Travel"
 - [x] Callstatic
 
-#
-
 ### Skills
 
 [![Solidity]](https://soliditylang.org/)
@@ -186,6 +184,29 @@ git clone https://github.com/levblanc/solidity-basics.git
 [![TypeScript]](https://www.typescriptlang.org/)
 [![Hardhat]](https://hardhat.org/) [![Chai]](https://www.chaijs.com/)
 [![Mocha]](https://mochajs.org/) [![Chainlink]](https://chain.link/)
+
+#
+
+<a href="https://github.com/levblanc/web3-lottery-nextjs"><img src="https://img.shields.io/badge/challenge%2005-NextJS%20--%20Smart%20Contract%20Lottery%20(lesson%2010)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-05' /></a>
+
+### Milestones
+
+- [x] Manual Header to understand how `ConnectButton` works
+- [x] react-moralis hooks & functions (`useMoralis` & `isWeb3Enabled`,
+      `useWeb3Contract` & `runContractFunction`)
+- [x] Automatic Constant Value UI Updater
+- [x] Calling Functions in NextJS
+- [x] Reading & Displaying Contract Data
+- [x] Tailwind & Styling
+
+### Skills
+
+[![Solidity]](https://soliditylang.org/)
+[![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![ReactJS]](https://reactjs.org/) [![NextJS]](https://nextjs.org/)
+[![Moralis]](https://moralis.io/) [![IPFS]](https://ipfs.tech/)
+
+#
 
 ### <a href="#readme-top">Back to top</a>
 
@@ -215,3 +236,10 @@ git clone https://github.com/levblanc/solidity-basics.git
 [chai]: https://img.shields.io/badge/Chai-94161F?style=for-the-badge&logo=Chai
 [mocha]:
   https://custom-icon-badges.demolab.com/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white
+[reactjs]:
+  https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[nextjs]:
+  https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[ipfs]: https://img.shields.io/badge/IPFS-0A1B2B?style=for-the-badge&logo=ipfs
+[moralis]:
+  https://custom-icon-badges.demolab.com/badge/Moralis-2559BB?style=for-the-badge&logo=moralis
