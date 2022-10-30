@@ -234,6 +234,29 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 #
 
+<a href="https://github.com/levblanc/web3-nft-hardhat"><img src="https://img.shields.io/badge/challenge%2007-Hardhat%20--%20NFTs%20(lesson%2014)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-07' /></a>
+
+### Milestones
+
+- [x] Concept of an NFT?
+- [x] Basic NFT contract & tests
+- [x] Creating an ERC20 Token with Openzeppelin
+- [x] Createing a Random IPFS NFT with Chainlink VRF
+- [x] Uploading Token Images & Token URIs (metadata) with Pinata
+- [x] Base64 encoding / decoding
+- [x] EVM opcodes, ABI encoding functions & call functions directly from
+      contract
+
+### Skills
+
+[![Solidity]](https://soliditylang.org/)
+[![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Hardhat]](https://hardhat.org/) [![Chai]](https://www.chaijs.com/)
+[![Mocha]](https://mochajs.org/) [![Chainlink]](https://chain.link/)
+[![Pinata]](https://www.pinata.cloud/)
+
+#
+
 ### <a href="#readme-top">Back to top</a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -271,3 +294,5 @@ git clone https://github.com/levblanc/solidity-basics.git
   https://custom-icon-badges.demolab.com/badge/Moralis-2559BB?style=for-the-badge&logo=moralis
 [aave]:
   https://custom-icon-badges.demolab.com/badge/Aave-1C202F?style=for-the-badge&logo=aave
+[pinata]:
+  https://custom-icon-badges.demolab.com/badge/Pinata-350462?style=for-the-badge&logo=pinata
