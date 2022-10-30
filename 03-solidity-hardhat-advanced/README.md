@@ -20,7 +20,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/levblanc/solidity-hardhat-advanced"><img src="https://img.shields.io/badge/challenge%2003-Hardhat%20Fund%20Me%20(Lesson%207)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-02' /></a>
+    <a href="https://github.com/levblanc/solidity-hardhat-advanced"><img src="https://img.shields.io/badge/challenge%2003-Hardhat%20--%20Fund%20Me%20(Lesson%207%20&%208)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-03' /></a>
   </p>
 
 <a href="https://github.com/levblanc/solidity-hardhat-advanced">View Code</a> ·
