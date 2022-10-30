@@ -129,11 +129,13 @@ git clone https://github.com/levblanc/solidity-basics.git
 - [x] Programmatic Verification
 - [x] Interacting with contracts in Hardhat
 - [x] Hardhat tests & coverage reporter
+- [x] Made everything compadible with Typescript
 
 ### Skills
 
 [![Solidity]](https://soliditylang.org/)
 [![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![TypeScript]](https://www.typescriptlang.org/)
 [![Hardhat]](https://hardhat.org/) [![Chai]](https://www.chaijs.com/)
 [![Mocha]](https://mochajs.org/)
 
@@ -173,6 +175,8 @@ git clone https://github.com/levblanc/solidity-basics.git
   https://img.shields.io/badge/remix%20IDE-181E29?style=for-the-badge&logo=ethereum
 [javascript]:
   https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[typescript]:
+  https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
 [nodejs]:
   https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 [ganache]:

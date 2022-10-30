@@ -23,7 +23,10 @@
     <a href="https://github.com/levblanc/solidity-hardhat"><img src="https://img.shields.io/badge/challenge%2002-Hardhat%20Simple%20Storage%20(lesson%206)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-02' /></a>
   </p>
 
-<a href="https://github.com/levblanc/solidity-hardhat">View Code</a> ·
+<a href="https://github.com/levblanc/solidity-hardhat">View Code
+(Javascript)</a> ·
+<a href="https://github.com/levblanc/solidity-hardhat/tree/typescript">View Code
+(Typescript)</a> ·
 <a href="https://github.com/levblanc/web3-blockchain-solidity-course-js">Check
 My Full Journey</a>
 
@@ -102,6 +105,7 @@ yarn hardhat run scripts/deploy.js --network goerli
 
 - [![Solidity]](https://soliditylang.org/)
 - [![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+- [![TypeScript]](https://www.typescriptlang.org/)
 - [![Hardhat]](https://hardhat.org/)
 - [![Chai]](https://www.chaijs.com/)
 - [![Mocha]](https://mochajs.org/)
@@ -133,6 +137,8 @@ yarn hardhat run scripts/deploy.js --network goerli
   https://img.shields.io/badge/solidity-1E1E3F?style=for-the-badge&logo=solidity
 [javascript]:
   https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[typescript]:
+  https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
 [hardhat]:
   https://custom-icon-badges.demolab.com/badge/Hardhat-181A1F?style=for-the-badge&logo=hardhat
 [chai]: https://img.shields.io/badge/Chai-94161F?style=for-the-badge&logo=Chai
