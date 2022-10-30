@@ -162,6 +162,31 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 #
 
+<a href="https://github.com/levblanc/web3-lottery-hardhat"><img src="https://img.shields.io/badge/challenge%2004-Hardhat%20--%20Smart%20Contract%20Lottery%20(lesson%209)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-04' /></a>
+
+### Milestones
+
+- [x] Chainlink VRF (Randomness in Web3)
+- [x] Implementing Chainlink VRF - The Request
+- [x] Implementing Chainlink VRF - The Fulfill
+- [x] Introduction to Chainlink Keepers
+- [x] Implementing Chainlink Keepers (checkUpKeep)
+- [x] Implementing Chainlink Keepers (performUpKeep)
+- [x] Enums
+- [x] Use Mock Chainlink VRF Coordinator for unit tests
+- [x] Hardhat Methods & "Time Travel"
+- [x] Callstatic
+
+#
+
+### Skills
+
+[![Solidity]](https://soliditylang.org/)
+[![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![TypeScript]](https://www.typescriptlang.org/)
+[![Hardhat]](https://hardhat.org/) [![Chai]](https://www.chaijs.com/)
+[![Mocha]](https://mochajs.org/) [![Chainlink]](https://chain.link/)
+
 ### <a href="#readme-top">Back to top</a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
