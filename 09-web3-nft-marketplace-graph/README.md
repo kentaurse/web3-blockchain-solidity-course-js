@@ -63,7 +63,14 @@ Other available commands in `package.json`.
 
 ## Skills
 
-[![TheGraph]](https://thegraph.com/en/) [![GraphQL]](https://graphql.org/)
+- [![TheGraph]](https://thegraph.com/en/)
+- [![GraphQL]](https://graphql.org/)
+
+## Roadmap
+
+- [x] Setup subgraph env
+- [x] Build a subgraph to handle the events emit from NFT marketplace contract
+- [x] Deploy to Subgraph Studio on The Graph
 
 #
 

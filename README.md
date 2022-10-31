@@ -278,6 +278,20 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 #
 
+<a href="https://github.com/levblanc/web3-nft-marketplace-graph"><img src="https://img.shields.io/badge/challenge%2009-NFT%20Marketplace%20--%20Subgraph%20(lesson%2015)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-09' /></a>
+
+### Milestones
+
+- [x] Setup subgraph env
+- [x] Build a subgraph to handle the events emit from NFT marketplace contract
+- [x] Deploy to Subgraph Studio on The Graph
+
+## Skills
+
+[![TheGraph]](https://thegraph.com/en/) [![GraphQL]](https://graphql.org/)
+
+#
+
 ### <a href="#readme-top">Back to top</a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
