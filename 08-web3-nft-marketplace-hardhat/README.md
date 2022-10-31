@@ -31,6 +31,12 @@ My Full Journey</a>
 
 <br />
 
+<p align="center">
+  <a href='https://web3-nft-marketplace-lime.vercel.app'><img src="https://img.shields.io/badge/-%3E%3E%20View%20the%20NFT%20Marketplace%20DApp%20Live%20in%20Action%20%3C%3C-B362FF" height="30" alt='view marketplace app in action' /></a>
+</p>
+
+<br />
+
 <!-- GETTING STARTED -->
 
 ## Getting Started

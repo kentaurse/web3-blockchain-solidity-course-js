@@ -31,9 +31,11 @@ My Full Journey</a>
 
 <br />
 
-## See In Action
+<p align="center">
+  <a href='https://web3-nft-marketplace-lime.vercel.app'><img src="https://img.shields.io/badge/-%3E%3E%20View%20the%20NFT%20Marketplace%20DApp%20Live%20in%20Action%20%3C%3C-B362FF" height="30" alt='view marketplace app in action' /></a>
+</p>
 
-[Go to Next.js frond end and see subgraph queries in action](https://github.com/levblanc/web3-nft-marketplace-nextjs-thegraph).
+<br />
 
 <!-- GETTING STARTED -->
 
