@@ -292,6 +292,30 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 #
 
+<a href="https://github.com/levblanc/web3-nft-marketplace-nextjs-thegraph"><img src="https://img.shields.io/badge/challenge%2010-NFT%20Marketplace%20--%20Next.js%20&%20the%20graph%20(lesson%2015)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-10' /></a>
+
+### Milestones
+
+- [x] Setup NextJS to work with the graph queries and marketplace/dynamicNFT
+      contracts
+- [x] Query subgraph and display contract data with GraphQL & Apollo client
+- [x] Use RainbowKit for wallet connection
+- [x] Use Wagmi to interact with smart contracts
+- [x] Build separate pages for displaying, minting and listing NFTs
+- [x] Customize UI/UX with Ant Design Components & Tailwind Styling
+
+### Skills
+
+[![Solidity]](https://soliditylang.org/)
+[![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![ReactJS]](https://reactjs.org/) [![NextJS]](https://nextjs.org/)
+[![TheGraph]](https://thegraph.com/en/)
+[![ApolloGraphQL]](https://www.apollographql.com/)
+[![GraphQL]](https://graphql.org/) [![Rainbow]](https://www.rainbowkit.com/)
+[![Wagmi]](https://wagmi.sh/) [![Antd]](https://ant.design/)
+
+#
+
 ### <a href="#readme-top">Back to top</a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -331,3 +355,15 @@ git clone https://github.com/levblanc/solidity-basics.git
   https://custom-icon-badges.demolab.com/badge/Aave-1C202F?style=for-the-badge&logo=aave
 [pinata]:
   https://custom-icon-badges.demolab.com/badge/Pinata-350462?style=for-the-badge&logo=pinata
+[thegraph]:
+  https://custom-icon-badges.demolab.com/badge/TheGraph-0C0A1C?style=for-the-badge&logo=thegraph&logoColor=white
+[apollographql]:
+  https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white
+[graphql]:
+  https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white
+[rainbow]:
+  https://custom-icon-badges.demolab.com/badge/Rainbowkit-032463?style=for-the-badge&logo=rainbow
+[wagmi]:
+  https://custom-icon-badges.demolab.com/badge/Wagmi-1C1B1B?style=for-the-badge&logo=wagmi
+[antd]:
+  https://img.shields.io/badge/Ant%20Design-0170FE.svg?style=for-the-badge&logo=Ant-Design&logoColor=white
