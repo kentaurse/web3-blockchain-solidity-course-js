@@ -257,6 +257,27 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 #
 
+<a href="https://github.com/levblanc/web3-nft-marketplace-hardhat"><img src="https://img.shields.io/badge/challenge%2008-NFT%20Marketplace%20--%20Hardhat%20(lesson%2015)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-08' /></a>
+
+### Milestones
+
+- [x] Creating a marketplace for ERC721 NFTs
+- [x] Concept of 'Pull Over Push' when sending ETH
+- [x] Ins & outs of Reentrancy attack
+- [x] Solidity Events with indexed params
+- [x] Solidity modifiers - review and application on marketplace
+- [x] Unit tests for all NFTs
+- [x] Scripts to interact with contract functions
+
+## Skills
+
+[![Solidity]](https://soliditylang.org/)
+[![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Hardhat]](https://hardhat.org/) [![Chai]](https://www.chaijs.com/)
+[![Mocha]](https://mochajs.org/) [![Pinata]](https://www.pinata.cloud/)
+
+#
+
 ### <a href="#readme-top">Back to top</a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
