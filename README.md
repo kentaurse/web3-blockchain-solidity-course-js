@@ -10,7 +10,7 @@
   <h2 align="center">Web3, Full Stack Solidity, Smart Contract & Blockchain development with JavaScript</h2>
 
   <p align="center">
-    My Web3 full stack Solicity smart contract & blockchain development journey along with 
+    My Web3 full stack Solidity smart contract & blockchain development journey along with 
     <br />
     <a href="https://youtu.be/gyMwXuJrbJQ"> » this course from Patrick Collins</a>
   </p>
