@@ -18,7 +18,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/levblanc/web3-nft-marketplace-graph"><img src="https://img.shields.io/badge/challenge%2009-NFT%20Marketplace%20--%20Subgraph%20(lesson%2015)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-09' /></a>
+    <a href="https://github.com/levblanc/web3-nft-marketplace-graph"><img src="https://img.shields.io/badge/challenge%2010-NFT%20Marketplace%20--%20Subgraph%20(lesson%2015)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-10' /></a>
   </p>
 
 <a href="https://github.com/levblanc/web3-nft-marketplace-graph">View Code</a> ·
