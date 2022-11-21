@@ -336,6 +336,31 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 #
 
+<a href="https://github.com/levblanc/hardhat-upgrade-smart-contracts"><img src="https://img.shields.io/badge/challenge%2012-Smart%20Contract%20Upgrades%20--%20Hardhat%20(lesson%2016)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-12' /></a>
+
+## Milestones
+
+- [x] Types of Upgrades
+  - [x] Parameter
+  - [x] Social Migrate
+  - [x] Proxy
+  - [x] Proxy Gotchas
+    - [x] [Function Collisions](https://blog.openzeppelin.com/the-state-of-smart-contract-upgrades/#transparent-proxies)
+    - [x] [Storage Collisions](https://blog.openzeppelin.com/the-state-of-smart-contract-upgrades/#unstructured-storage)
+  - [x] Metamorphic Upgrades
+  - [x] [Transparent](https://blog.openzeppelin.com/the-transparent-proxy-pattern/)
+  - [x] [UUPS (Universal Upgradable Proxies)](https://forum.openzeppelin.com/t/uups-proxies-tutorial-solidity-javascript/7786)
+  - [x] [Diamond](https://blog.openzeppelin.com/the-state-of-smart-contract-upgrades/#diamonds)
+
+### Skills
+
+[![Solidity]](https://soliditylang.org/)
+[![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Hardhat]](https://hardhat.org/) [![Chai]](https://www.chaijs.com/)
+[![Mocha]](https://mochajs.org/) [![Chainlink]](https://chain.link/)
+
+#
+
 ### <a href="#readme-top">Back to top</a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
