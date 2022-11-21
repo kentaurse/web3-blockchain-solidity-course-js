@@ -210,7 +210,24 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 #
 
-<a href="https://github.com/levblanc/web3-defi-hardhat"><img src="https://img.shields.io/badge/challenge%2006-Hardhat%20--%20DeFi%20%26%20Aave%20(lessons%2011%20~%2013)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-06' /></a>
+<a href="https://github.com/levblanc/web3-erc20-hardhat"><img src="https://img.shields.io/badge/challenge%2006-Hardhat%20--%20ERC20%20Tokens%20(lesson%2012)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-06' /></a>
+
+## Milestones
+
+- [x] Create ERC20 token manually, refering to
+  - tutorial on ethereum.org
+  - OpenZeppelin
+- [x] Create ERC20 token with OpenZeppelin template
+
+### Skills
+
+[![Solidity]](https://soliditylang.org/)
+[![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Hardhat]](https://hardhat.org/) [![Chai]](https://www.chaijs.com/)
+[![Mocha]](https://mochajs.org/)
+
+#
+
 
 ### Milestones
 
