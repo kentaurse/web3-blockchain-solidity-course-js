@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/levblanc/web3-blockchain-solidity-course-js">
-    <img src="./images/blockchain.svg" alt="Logo" width="100" height="100">
+    <img src="../images/blockchain.svg" alt="Logo" width="100" height="100">
   </a>
 
   <h2 align="center">Web3, Full Stack Solidity, Smart Contract & Blockchain development with JavaScript</h2>
