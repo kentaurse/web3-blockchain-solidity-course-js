@@ -228,7 +228,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 #
 
-<a href="https://github.com/levblanc/web3-defi-hardhat"><img src="https://img.shields.io/badge/challenge%2006-Hardhat%20--%20DeFi%20%26%20Aave%20(lessons%2013)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-07' /></a>
+<a href="https://github.com/levblanc/web3-defi-hardhat"><img src="https://img.shields.io/badge/challenge%2007-Hardhat%20--%20DeFi%20%26%20Aave%20(lessons%2013)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-07' /></a>
 
 ### Milestones
 
