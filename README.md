@@ -310,7 +310,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 #
 
-<a href="https://github.com/levblanc/web3-nft-marketplace-nextjs-thegraph"><img src="https://img.shields.io/badge/challenge%2010-NFT%20Marketplace%20--%20Next.js%20&%20the%20graph%20(lesson%2015)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-10' /></a>
+<a href="https://github.com/levblanc/web3-nft-marketplace-nextjs-thegraph"><img src="https://img.shields.io/badge/challenge%2011-NFT%20Marketplace%20--%20Next.js%20&%20the%20graph%20(lesson%2015)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-11' /></a>
 
 ### Milestones
 
