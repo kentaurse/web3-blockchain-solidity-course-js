@@ -148,6 +148,14 @@ yarn format
 - [![Slither]](https://github.com/crytic/slither)
 - [![Echnida]](https://github.com/crytic/echidna)
 
+## Roadmap
+
+- [x] Learn about `slither` as a static and fast auditing tool
+- [x] Learn about `eth-security-toolbox` as an auditing toolkit and run with
+      docker
+- [x] Learn about the standard auditing process
+- [x] Learn about known attacks and how to avoid them
+
 ## Two Most Common Attacks:
 
 - Reentrancy
