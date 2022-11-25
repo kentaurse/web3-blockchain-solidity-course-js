@@ -82,14 +82,14 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 <a href="https://github.com/levblanc/solidity-basics"><img src="https://img.shields.io/badge/challenge%2000-blockchain,%20remix%20and%20solidity%20basics%20(Lessons%200%20~%204)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-00' /></a>
 
-### Milestones
+## Milestones
 
 - [x] Blockchain basics
 - [x] Solidity basics - languange syntax, gas & transactions
 - [x] Compile & Deploy contracts (VM and Testnet)
 - [x] Chainlink price feeds
 
-### Skills
+## Skills
 
 [![Solidity]](https://soliditylang.org/) [![Chainlink]](https://chain.link/)
 [![Remix]](https://remix.ethereum.org/)
@@ -98,7 +98,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 <a href="https://github.com/levblanc/solidity-ethersjs"><img src="https://img.shields.io/badge/challenge%2001-Ethers.js%20--%20Simple%20Storage%20(lesson%205)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-01' /></a>
 
-### Milestones
+## Milestones
 
 - [x] Local development env setup
 - [x] Work with Ganache for local blockchain networks
@@ -110,7 +110,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 - [x] Verify contract on block explorer UI
 - [x] Made everything compadible with Typescript
 
-### Skills
+## Skills
 
 [![Solidity]](https://soliditylang.org/)
 [![EthersJS]](https://docs.ethers.io/v5/)
@@ -123,7 +123,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 <a href="https://github.com/levblanc/solidity-hardhat"><img src="https://img.shields.io/badge/challenge%2002-Hardhat%20--%20Simple%20Storage%20(lesson%206)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-02' /></a>
 
-### Milestones
+## Milestones
 
 - [x] Hardhat env setup
 - [x] Hardhat networks & local node
@@ -133,7 +133,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 - [x] Hardhat tests & coverage reporter
 - [x] Made everything compadible with Typescript
 
-### Skills
+## Skills
 
 [![Solidity]](https://soliditylang.org/)
 [![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
@@ -145,7 +145,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 <a href="https://github.com/levblanc/solidity-hardhat-advanced"><img src="https://img.shields.io/badge/challenge%2003-Hardhat%20--%20Fund%20Me%20(Lesson%207%20&%208)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-03' /></a>
 
-### Milestones
+## Milestones
 
 - [x] Testing with Chainlink mocks & helper-hardhat-config
 - [x] Contract testing with Solidity console.log & VS Code breakpoints
@@ -155,7 +155,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 - [x] Running Scripts on a Local Node
 - [x] Adding scripts to your package.json
 
-### Skills
+## Skills
 
 [![Solidity]](https://soliditylang.org/)
 [![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
@@ -166,7 +166,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 <a href="https://github.com/levblanc/web3-lottery-hardhat"><img src="https://img.shields.io/badge/challenge%2004-Hardhat%20--%20Smart%20Contract%20Lottery%20(lesson%209)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-04' /></a>
 
-### Milestones
+## Milestones
 
 - [x] Chainlink VRF (Randomness in Web3)
 - [x] Implementing Chainlink VRF - The Request
@@ -179,7 +179,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 - [x] Hardhat Methods & "Time Travel"
 - [x] Callstatic
 
-### Skills
+## Skills
 
 [![Solidity]](https://soliditylang.org/)
 [![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
@@ -191,7 +191,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 <a href="https://github.com/levblanc/web3-lottery-nextjs"><img src="https://img.shields.io/badge/challenge%2005-NextJS%20--%20Smart%20Contract%20Lottery%20(lesson%2010)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-05' /></a>
 
-### Milestones
+## Milestones
 
 - [x] Manual Header to understand how `ConnectButton` works
 - [x] react-moralis hooks & functions (`useMoralis` & `isWeb3Enabled`,
@@ -201,7 +201,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 - [x] Reading & Displaying Contract Data
 - [x] Tailwind & Styling
 
-### Skills
+## Skills
 
 [![Solidity]](https://soliditylang.org/)
 [![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
@@ -219,7 +219,7 @@ git clone https://github.com/levblanc/solidity-basics.git
   - OpenZeppelin
 - [x] Create ERC20 token with OpenZeppelin template
 
-### Skills
+## Skills
 
 [![Solidity]](https://soliditylang.org/)
 [![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
@@ -230,7 +230,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 <a href="https://github.com/levblanc/web3-defi-hardhat"><img src="https://img.shields.io/badge/challenge%2007-Hardhat%20--%20DeFi%20%26%20Aave%20(lessons%2013)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-07' /></a>
 
-### Milestones
+## Milestones
 
 - [x] Concepts of ERC, EIP, ERC20
 - [x] Creating an ERC20 Token with Openzeppelin
@@ -243,7 +243,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 - [x] Repaying with Aave
 - [x] Visualizing the Transactions (And aTokens) on Etherscan
 
-### Skills
+## Skills
 
 [![Solidity]](https://soliditylang.org/)
 [![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
@@ -254,7 +254,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 <a href="https://github.com/levblanc/web3-nft-hardhat"><img src="https://img.shields.io/badge/challenge%2008-Hardhat%20--%20NFTs%20(lesson%2014)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-08' /></a>
 
-### Milestones
+## Milestones
 
 - [x] Concept of an NFT?
 - [x] Basic NFT contract & tests
@@ -265,7 +265,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 - [x] EVM opcodes, ABI encoding functions & call functions directly from
       contract
 
-### Skills
+## Skills
 
 [![Solidity]](https://soliditylang.org/)
 [![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
@@ -277,7 +277,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 <a href="https://github.com/levblanc/web3-nft-marketplace-hardhat"><img src="https://img.shields.io/badge/challenge%2009-NFT%20Marketplace%20--%20Hardhat%20(lesson%2015)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-09' /></a>
 
-### Milestones
+## Milestones
 
 - [x] Creating a marketplace for ERC721 NFTs
 - [x] Concept of 'Pull Over Push' when sending ETH
@@ -298,7 +298,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 <a href="https://github.com/levblanc/web3-nft-marketplace-graph"><img src="https://img.shields.io/badge/challenge%2010-NFT%20Marketplace%20--%20Subgraph%20(lesson%2015)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-10' /></a>
 
-### Milestones
+## Milestones
 
 - [x] Setup subgraph env
 - [x] Build a subgraph to handle the events emit from NFT marketplace contract
@@ -316,7 +316,7 @@ git clone https://github.com/levblanc/solidity-basics.git
   <a href='https://web3-nft-marketplace-lime.vercel.app'><img src="https://img.shields.io/badge/-%3E%3E%20View%20the%20NFT%20Marketplace%20DApp%20Live%20in%20Action%20%3C%3C-B362FF" height="30" alt='view marketplace app in action' /></a>
 </div>
 
-### Milestones
+## Milestones
 
 - [x] Setup NextJS to work with the graph queries and marketplace/dynamicNFT
       contracts
@@ -326,7 +326,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 - [x] Build separate pages for displaying, minting and listing NFTs
 - [x] Customize UI/UX with Ant Design Components & Tailwind Styling
 
-### Skills
+## Skills
 
 [![Solidity]](https://soliditylang.org/)
 [![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
@@ -354,12 +354,32 @@ git clone https://github.com/levblanc/solidity-basics.git
   - [x] [UUPS (Universal Upgradable Proxies)](https://forum.openzeppelin.com/t/uups-proxies-tutorial-solidity-javascript/7786)
   - [x] [Diamond](https://blog.openzeppelin.com/the-state-of-smart-contract-upgrades/#diamonds)
 
-### Skills
+## Skills
 
 [![Solidity]](https://soliditylang.org/)
 [![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![Hardhat]](https://hardhat.org/) [![Chai]](https://www.chaijs.com/)
 [![Mocha]](https://mochajs.org/) [![Chainlink]](https://chain.link/)
+
+#
+
+<a href="https://github.com/levblanc/web3-daos-hardhat"><img src="https://img.shields.io/badge/challenge%2013-%20Hardhat%20--%20DAOs%20(lesson%2017)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-13' /></a>
+
+## Milestones
+
+- [x] [What is a DAO](https://www.youtube.com/watch?v=X_QKZzd68ro)?
+- [x] Walked thru Compound app's governance process
+- [x] Built an on-chain DAO with
+  - [x] governance token
+  - [x] governor contract (with
+        [OpenZeppelin Contracts Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard))
+  - [x] timelock contract
+
+## Skills
+
+[![Solidity]](https://soliditylang.org/)
+[![TypeScript]](https://www.typescriptlang.org/)
+[![Hardhat]](https://hardhat.org/) [![OpenZeppelin]](https://openzeppelin.com/)
 
 #
 
