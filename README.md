@@ -312,6 +312,10 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 <a href="https://github.com/levblanc/web3-nft-marketplace-nextjs-thegraph"><img src="https://img.shields.io/badge/challenge%2011-NFT%20Marketplace%20--%20Next.js%20&%20the%20graph%20(lesson%2015)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-11' /></a>
 
+<div align="center">
+  <a href='https://web3-nft-marketplace-lime.vercel.app'><img src="https://img.shields.io/badge/-%3E%3E%20View%20the%20NFT%20Marketplace%20DApp%20Live%20in%20Action%20%3C%3C-B362FF" height="30" alt='view marketplace app in action' /></a>
+</div>
+
 ### Milestones
 
 - [x] Setup NextJS to work with the graph queries and marketplace/dynamicNFT
@@ -321,8 +325,6 @@ git clone https://github.com/levblanc/solidity-basics.git
 - [x] Use Wagmi to interact with smart contracts
 - [x] Build separate pages for displaying, minting and listing NFTs
 - [x] Customize UI/UX with Ant Design Components & Tailwind Styling
-
-<a href='https://web3-nft-marketplace-lime.vercel.app'><img src="https://img.shields.io/badge/-%3E%3E%20View%20the%20NFT%20Marketplace%20DApp%20Live%20in%20Action%20%3C%3C-B362FF" height="30" alt='view marketplace app in action' /></a>
 
 ### Skills
 
@@ -358,6 +360,26 @@ git clone https://github.com/levblanc/solidity-basics.git
 [![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![Hardhat]](https://hardhat.org/) [![Chai]](https://www.chaijs.com/)
 [![Mocha]](https://mochajs.org/) [![Chainlink]](https://chain.link/)
+
+#
+
+<a href="https://github.com/levblanc/web3-security-hardhat"><img src="https://img.shields.io/badge/challenge%2014-%20Hardhat%20--%20Security%20and%20Auditing%20(lesson%2018)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-14' /></a>
+
+## Milestones
+
+- [x] Learn about `slither` as a static and fast auditing tool
+- [x] Learn about `eth-security-toolbox` as an auditing toolkit and run with
+      docker
+- [x] Learn about the standard auditing process
+- [x] Learn about known attacks and how to avoid them
+
+## Skills
+
+[![Solidity]](https://soliditylang.org/)
+[![TypeScript]](https://www.typescriptlang.org/)
+[![Hardhat]](https://hardhat.org/) [![OpenZeppelin]](https://openzeppelin.com/)
+[![Slither]](https://github.com/crytic/slither)
+[![Echnida]](https://github.com/crytic/echidna)
 
 #
 
@@ -412,3 +434,9 @@ git clone https://github.com/levblanc/solidity-basics.git
   https://custom-icon-badges.demolab.com/badge/Wagmi-1C1B1B?style=for-the-badge&logo=wagmi
 [antd]:
   https://img.shields.io/badge/Ant%20Design-0170FE.svg?style=for-the-badge&logo=Ant-Design&logoColor=white
+[openzeppelin]:
+  https://img.shields.io/badge/OpenZeppelin-4E5EE4.svg?style=for-the-badge&logo=OpenZeppelin&logoColor=white
+[slither]:
+  https://custom-icon-badges.demolab.com/badge/Slither-181B22?style=for-the-badge&logo=slither
+[echnida]:
+  https://custom-icon-badges.demolab.com/badge/Echnida-181B22?style=for-the-badge&logo=echnida
