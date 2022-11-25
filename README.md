@@ -336,7 +336,7 @@ git clone https://github.com/levblanc/solidity-basics.git
 
 #
 
-<a href="https://github.com/levblanc/hardhat-upgrade-smart-contracts"><img src="https://img.shields.io/badge/challenge%2012-Smart%20Contract%20Upgrades%20--%20Hardhat%20(lesson%2016)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-12' /></a>
+<a href="https://github.com/levblanc/hardhat-upgrade-smart-contracts"><img src="https://img.shields.io/badge/challenge%2012-%20Hardhat%20--%20Smart%20Contract%20Upgrades%20(lesson%2016)-4D21FC?style=for-the-badge&logo=blockchaindotcom" height="35" alt='challenge-12' /></a>
 
 ## Milestones
 
